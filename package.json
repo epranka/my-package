@@ -1,0 +1,9 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "My ultimate package",
+  "main": "lib/index.js",
+  "author": "Edvinas Pranka",
+  "license": "MIT",
+  "private": true
+}
